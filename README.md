@@ -79,7 +79,7 @@ De 5 principerna:
 Bilder som skall användas för sidans verktyg [kan ni ladda ner här](https://drive.google.com/file/d/1JiPcm3pFPFp0ktWGD7Ju36QuLMQz4Las/view?usp=sharing).
 
 ## Handledning
-Under onsdagen och torsdagen erbjuds handledning online via Discord. Då vill jag att ALLA i klassen bokar in sig på minst ett handledningspass men mig eller Rachel. Skriver upp er för handledning [gör ni här](https://docs.google.com/spreadsheets/d/1s_rkiGDLy5zU-6eIED3rtz0Z4BLIHS4_lOnAch_xdfs/edit?usp=sharing)
+Under onsdagen och torsdagen erbjuds handledning online via Discord. Då vill jag att ALLA i klassen bokar in sig på minst ett handledningspass med mig eller Rachel. Skriver upp er för handledning [gör ni här](https://docs.google.com/spreadsheets/d/1s_rkiGDLy5zU-6eIED3rtz0Z4BLIHS4_lOnAch_xdfs/edit?usp=sharing).
 
 ## Inlämning
 
