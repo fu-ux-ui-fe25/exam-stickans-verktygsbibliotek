@@ -57,7 +57,7 @@ Du ska designa prototypen i Figma. Den ska innehålla:
 * Components
 
 ### Krav för G
-* Är en interaktiv prototyp som har 2 flöden:
+* Är en interaktiv prototyp (hi-fi) som har 2 flöden:
   * Från inloggning till bekräftelse av lån
   * Från inloggning till min egen översikt av lån och tillbakalämningstider
 * Uppfyller alla funktionella krav
